@@ -404,6 +404,4 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-# CommBank Moogodb connection string
-CommBank-Server/Secrets/ConnectionStrings.json
 
