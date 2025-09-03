@@ -405,6 +405,6 @@ ASALocalRun/
 .localhistory/
 
 # ignore databse connection string files
-./CommBank-Server/Secrets.json
+/CommBank-Server/Secrets.json
 
 
