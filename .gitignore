@@ -404,4 +404,7 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+# ignore databse connection string files
+./CommBank-Server/Secrets.json
+
 
